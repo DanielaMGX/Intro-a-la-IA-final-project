@@ -56,7 +56,8 @@ Para ejecutar el Jupyter Notebook, necesitarás:
 * Matplotlib - La biblioteca utilizada para visualización de datos.
 
 ## Autores ✒️
-
+- Laura Daniela Monsalve Gómez, CC 1020487353, Ingeniería de Sistemas
+- Daniel Felipe Cetina Saldarriaga, CC 1020483794, Ingeniería de Sistemas
 * **Laura Daniela Monsalve Gómez** - [danielamgx](https://github.com/DanielaMGX)
 * **Daniel Felipe Cetina Saldarriaga** - [danielamgx](https://github.com/Reginork)
 
