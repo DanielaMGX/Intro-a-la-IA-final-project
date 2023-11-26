@@ -12,13 +12,6 @@ _Estas instrucciones te permitirán obtener una copia del proyecto en funcionami
  ### Pre-requisitos 📋
 
 Para ejecutar el Jupyter Notebook, necesitarás:
-
-* Jupyter Notebook: Puedes instalar Jupyter Notebook utilizando Anaconda o directamente con pip. Consulta la documentación oficial de Jupyter Notebook para obtener instrucciones de instalación.
-
-* Bibliotecas de Python: El notebook requiere varias bibliotecas de Python como TensorFlow, Keras, NumPy y Matplotlib. Puedes instalarlas utilizando pip o conda. Aquí tienes un ejemplo de comando para instalar las bibliotecas necesarias:
-
-  ```
-  pip install tensorflow keras numpy matplotlib
   ```
 
 ### Instalación 🔧
@@ -31,21 +24,10 @@ Para ejecutar el Jupyter Notebook, necesitarás:
 
 2. Ve al directorio del proyecto:
 
-   ```
-   cd reconocimiento-de-lenguaje-de-señas
-   ```
 
-3. Inicia Jupyter Notebook:
 
-   ```
-   jupyter notebook
-   ```
+3.abre el notebook con el botón de abrir en colab y Sigue las instrucciones y comentarios proporcionados en el cuaderno para comprender el código y realizar las modificaciones necesarias.
 
-4. Abre el cuaderno `reconocimiento_de_lenguaje_de_señas.ipynb` desde la interfaz de Jupyter Notebook.
-
-5. Ejecuta las celdas del cuaderno de forma secuencial para ejecutar el código, entrenar los modelos y analizar los resultados.
-
-6. Sigue las instrucciones y comentarios proporcionados en el cuaderno para comprender el código y realizar las modificaciones necesarias.
 
 ## Construido con 🛠️
 
